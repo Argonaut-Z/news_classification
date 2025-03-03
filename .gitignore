@@ -1,0 +1,14 @@
+*.bin
+*.safetensors
+*.pt
+*.csv
+data/test_a.csv
+data/train_set.csv
+*.bin
+*.safetensors
+*.pt
+*.csv
+*.bin
+*.safetensors
+*.pt
+*.csv
