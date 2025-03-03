@@ -341,7 +341,8 @@ pd.DataFrame({'label': pred}).to_csv('submit1022.csv', index=None)
 
 提交`submission.csv`至竞赛官网系统上，最终得到成绩如下：
 
-![1740989980627](img/1740989980627-1740989992046-2.png)
+![result](https://github.com/user-attachments/assets/e6250c2d-bad9-4162-84bd-57da50aa9e08)
+
 
 ## 8. 结论与改进方向
 
