@@ -20,7 +20,7 @@
 
 在数据集中标签的对应的关系如下：
 
-```json
+```css
 {'科技': 0, '股票': 1, '体育': 2, '娱乐': 3, '时政': 4, '社会': 5, '教育': 6, '财经': 7, '家居': 8, '游戏': 9, '房产': 10, '时尚': 11, '彩票': 12, '星座': 13}
 ```
 
@@ -194,7 +194,7 @@ model = BertForMaskedLM(config=config)
 print(model)
 ```
 
-```json
+```css
 BertForMaskedLM(
   (bert): BertModel(
     (embeddings): BertEmbeddings(
